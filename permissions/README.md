@@ -11,3 +11,4 @@
 - 10-mirror_permissions: Sets the mode of the file hello to match the mode of the file olleh.
 - 11-directories_permissions: Adds execute permission to all subdirectories for owner, group, and others, without changing regular files.
 - 12-directory_permissions: Creates a directory called my_dir with permissions 751 in the working directory.
+- 13-change_group: Changes the group owner of the file hello to school.
