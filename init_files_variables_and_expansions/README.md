@@ -11,3 +11,5 @@
 10-love_exponent_breath: Calculates BREATH ^ LOVE using shell arithmetic exponentiation
 11-binary_to_decimal: Converts binary $BINARY to decimal using shell arithmetic base conversion
 12-combinations: Prints all 2-letter combinations (a-z) except "oo" using brace expansion + grep
+13-print_float: Prints $NUM with exactly 2 decimal places using printf "%.2f"
+14-decimal_to_hexadecimal: Converts $DECIMAL from base 10 to base 16 (hex) using printf %x
