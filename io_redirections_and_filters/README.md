@@ -8,4 +8,9 @@
 7-file: This script creates a file named *\\'"Best School"\'\\*$\?\*\*\*\*\*:) containing "Best School" using the `echo` command.
 8-cwd_state: This script writes the result of ls -la into ls_cwd_content using I/O redirection.
 9-duplicate_last_line: This script duplicates the last line of iacta using the `tail` command.
+10-no_more_js: This script deletes all .js files in current directory and subfolders using the `find` command.
+11-directories: This script counts directories/sub-directories (excluding . and ..) using the `find` command.
+12-newest_files: This script displays the 10 newest files using `ls`, `head`.
+13-unique: This script prints only words that appear exactly once using the `sort` and `uniq` commands.
+14-findthatword: This script displays lines containing "root" from /etc/passwd using the `grep` command.
 
