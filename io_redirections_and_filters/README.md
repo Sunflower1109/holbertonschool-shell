@@ -13,4 +13,11 @@
 12-newest_files: This script displays the 10 newest files using `ls`, `head`.
 13-unique: This script prints only words that appear exactly once using the `sort` and `uniq` commands.
 14-findthatword: This script displays lines containing "root" from /etc/passwd using the `grep` command.
+15-countthatword: This script counts lines containing "bin" in /etc/passwd using the `grep` and `wc` commands.
+16-whatsnext: This script displays lines containing "root" and 3 lines after using the `grep -A 3` command.
+17-hidethisword: This script displays lines NOT containing "bin" in /etc/passwd using the `grep -v` command.
+18-letteronly: This script displays lines starting with a letter in /etc/ssh/sshd_config using the `grep ^[a-zA-Z] command.
+19-AZ: This script replaces A with Z and c with e from input using the `tr` command.
+20-hiago: This script removes all letters c and C from input using the `tr -d` command.
+21-reverse: This script reverses its input using the `rev` command.
 
