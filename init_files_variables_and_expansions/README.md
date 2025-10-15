@@ -7,4 +7,7 @@
 6-create_local_variable: Creates a new local variable BEST with value "School"
 7-create_global_variable: Creates a new global variable BEST with value "School" using export
 8-true_knowledge: Adds 128 + $TRUEKNOWLEDGE environment variable using shell arithmetic
-
+9-divide_and_rule: Divides $POWER by $DIVIDE using shell arithmetic
+10-love_exponent_breath: Calculates BREATH ^ LOVE using shell arithmetic exponentiation
+11-binary_to_decimal: Converts binary $BINARY to decimal using shell arithmetic base conversion
+12-combinations: Prints all 2-letter combinations (a-z) except "oo" using brace expansion + grep
