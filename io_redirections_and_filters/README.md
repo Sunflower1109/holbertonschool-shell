@@ -20,4 +20,5 @@
 19-AZ: This script replaces A with Z and c with e from input using the `tr` command.
 20-hiago: This script removes all letters c and C from input using the `tr -d` command.
 21-reverse: This script reverses its input using the `rev` command.
+22-users_and_homes: This script displays users and home directories sorted by users using the `cut` and `sort` commands.
 
